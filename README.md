@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Patil</h1>
-<h3 align="center">Skilled and creative UI Designer and Frontend Developer with a strong passion for crafting visually stunning and user-friendly interfaces. With a solid background in design principles and programming languages</h3>
+<h3 align="center">Skilled and creative UI-UX Designer and Frontend Developer with a strong passion for crafting visually stunning and user-friendly interfaces. With a solid background in design principles and programming languages</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejpatil064&label=Profile%20views&color=0e75b6&style=flat" alt="tejpatil064" /> </p>
 
